@@ -6,10 +6,6 @@ This is a comprehensive goalkeeper analytics system that applies advanced mathem
 
 The application combines physics-based ball trajectory modeling with sophisticated probability calculations to simulate realistic football scenarios. It features heat map generation for coverage analysis, optimization algorithms for finding ideal goalkeeper positions, and comprehensive performance tracking capabilities.
 
-## User Preferences
-
-Preferred communication style: Simple, everyday language.
-
 ## System Architecture
 
 ### Frontend Architecture
